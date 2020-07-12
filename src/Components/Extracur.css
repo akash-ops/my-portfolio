@@ -1,0 +1,40 @@
+.extra_tit{
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+    margin-top: 5%;
+    
+}
+.extracur_sec{
+    align-items: center;
+    color: black ;
+    display: flex;
+    justify-content: space-evenly;
+}       
+.extra_img{
+    margin-left: 10%;
+    padding-top: 0px;
+    width: 20%;
+    height: 80%;
+    border-radius: 10px;
+
+}
+.extra_name{
+    margin-top: 10%;
+    margin-left: 50%;
+    font-family: 'Questrial', sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+.extra_cont{
+        margin-top: 0px;
+        margin-left: 10%;
+        margin-right: 5%;
+        font-family: 'Questrial', sans-serif;
+        line-height: 50px;
+        word-spacing: 5px;
+        color: gray;
+    
+}

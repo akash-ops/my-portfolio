@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+.show>.dropdown-menu {
+    display: block;
+    position: absolute;
+  }
+
+.my-container{
+  z-index: 10 !important;
+}
+
+.navbar{
+  background-image: url("https://images.pexels.com/photos/1097456/pexels-photo-1097456.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    opacity: 0.7;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  font-style: normal;
+  position: fixed;
+  width: 100vw;
+  margin-top: 0px !important;
+}
+
+.links-container{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  
+}
+
+.make-white{
+ color: white !important; 
+}

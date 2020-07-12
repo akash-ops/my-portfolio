@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+.cont_head{
+    margin-left: 200px;
+    margin-top: 150px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.cont_pe{
+    margin-left: 200px;
+    font-family: 'Questrial', sans-serif;
+}

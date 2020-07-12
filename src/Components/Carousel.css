@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+.lop{
+    /* margin-top: 5%; */
+    margin-left: 18%;
+    width: 60%;
+    height: 90%;
+    align-items: center;
+}
+.project_heading{
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+}

@@ -1,0 +1,15 @@
+.App{
+    background-image: url("https://wallpaperplay.com/walls/full/9/6/4/392551.jpg");
+    opacity: 0.9;
+    position: absolute;
+    top: 0px;
+    width: 100vw;
+    min-height: 100vh;
+}
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+    scroll-behavior: smooth;
+    }
+

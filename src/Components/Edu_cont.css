@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+
+.primary2{
+    margin-top: 5%;
+    margin-left: 60%;
+    font-family: 'Questrial', sans-serif;
+    font-size: 200%;
+    font-weight: 700;
+}
+.font_color{
+    color: black;
+    
+}
+.primary_3{
+    margin-top: 0px;
+    margin-left: 10%;
+    margin-right: 5%;
+    font-family: 'Questrial', sans-serif;
+    line-height: 50px;
+    word-spacing: 5px;
+    color: gray;
+}
+.university1{
+    align-items: center;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+.prim_img{
+    margin-left: 8%;
+    /* padding-top: 0px; */
+    width: 20%;
+    height: 60%;
+}
+.Educ_title{
+    font-family: 'Questrial', sans-serif;
+    text-align: center;
+    font-size: 300%;
+    font-weight: 700;
+    margin-top: 110vh
+}

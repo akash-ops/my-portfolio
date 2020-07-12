@@ -1,0 +1,13 @@
+.cert_tit{
+    text-align: center;
+    margin-top: 10%;
+    font-family: 'Questrial', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.cert_tg{
+    margin-left: 18%;
+    width: 60%;
+    height: 90%;
+    align-items: center;
+}
