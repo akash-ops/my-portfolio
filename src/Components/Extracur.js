@@ -13,7 +13,7 @@ const Extracur = () => {
             <a className="extra_name">Athletics</a>
             <div className="extracur_sec">
                 <img className="extra_img" src="https://image.freepik.com/free-vector/running-man-logo-symbol_31941-29.jpg" alt=""></img>
-                <h3 className="extra_cont">I have participated in VTU interzonal chess competition held at Belgaum VTU.</h3>
+                <h3 className="extra_cont">I have participated in VTU interzonal athletics competition held at Belgaum VTU.</h3>
             </div>
         </div>
     )
